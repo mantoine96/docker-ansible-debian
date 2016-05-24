@@ -16,7 +16,7 @@ RUN apt-get update -y && \
 	fakeroot \
 	gawk \
 	git \
-	libxml12-utils \
+#	libxml12-utils \
 	locales \
 	make \
 	mercurial \
@@ -29,7 +29,7 @@ RUN apt-get update -y && \
 	python-keyczar \
 	python-mock \
 	python-mysqldb \
-	python-node \
+#	python-node \
 	python-paramiko \
 	python-passlib \
 	python-pip \
