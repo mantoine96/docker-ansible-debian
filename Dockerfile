@@ -1,7 +1,7 @@
 FROM debian:jessie
 
 RUN apt-get clean
-y
+
 
 RUN apt-get update
 
